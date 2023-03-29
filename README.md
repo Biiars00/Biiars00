@@ -2,7 +2,6 @@
 
 <h1> Olá! Seja bem-vindo(a)!</h1>
 
-💻 Atualmente, sou **Estagiária em Desenvolvimento de Software**.
 
 📚 Faço graduação em **Análise e Desenvolvimento de Sistemas** e sigo em busca de constante aprendizado.
 
