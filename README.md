@@ -7,11 +7,11 @@
 
 <h3>Consigo desenvolver com as seguintes tecnologias:</h3><br> 
 
-<img src="./img/social_html5_html_71.png" alt="HTML5" width="48" height="48"/> <img src="./img/css3-01_icon-icons.com_50918.png" alt="CSS3" width="48" height="48"/> <img src="./img/javascript_icon_130900.svg" alt="JavaScript" width="48" height="48"/> <img src="./img/bootstrap_plain_wordmark_logo_icon_146620.svg" alt="Bootstrap" width="48" height="48"/> <img src="./img/jquery_original_wordmark_logo_icon_146447.svg" alt="JQuery" width="48" height="48"/> <img src="./img/react_original_wordmark_logo_icon_146375.svg" alt="React" width="48" height="48"/> <img src="./img/angular_logo_icon_169595.svg" alt="Angular" width="48" height="48"/>
+<img src="./img/social_html5_html_71.png" alt="HTML5" width="48" height="48"/> <img src="./img/css3-01_icon-icons.com_50918.png" alt="CSS3" width="48" height="48"/> <img src="./img/javascript_icon_130900.svg" alt="JavaScript" width="48" height="48"/> 
 
 <h3>No momento estou aprendendo:</h3><br>
 
-<img src="./img/python_vertical_logo_icon_168039.svg" alt="Python" width="48" height="48"/> <img src="./img/mysql_official_logo_icon_169938.svg" alt="MySQL" width="48" height="48"/> <img src="./img/docker_original_wordmark_logo_icon_146557.svg" alt="Docker" width="48" height="48"/> <img src="./img/java_original_wordmark_logo_icon_146459.svg" alt="Java" width="48" height="48"/>
+<img src="./img/python_vertical_logo_icon_168039.svg" alt="Python" width="48" height="48"/> <img src="./img/mysql_official_logo_icon_169938.svg" alt="MySQL" width="48" height="48"/> 
 
 <h3 align="left">Streak:</h3>
 
