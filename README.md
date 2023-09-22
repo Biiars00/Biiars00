@@ -4,7 +4,6 @@
 📚 Graduanda em Análise e Desenvolvimento de Sistemas, sou apaixonada por tecnologia e sigo em busca de constante aprendizado.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-320032?style=flat)](https://web.dio.me/users/biiaribeiro60?tab=skills)
 [![E-mail](https://img.shields.io/badge/Gmail-320032?style=flat&logo=gmail&logoColor=red)](biiaribeiro60@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-320032?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beatriz-ribeiro-dev)
 [![Github](https://img.shields.io/badge/-Github-320032?style=flat&logo=github&logoColor=white)](https://github.com/Biiars00)
