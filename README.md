@@ -9,20 +9,21 @@
 [![Github](https://img.shields.io/badge/-Github-320032?style=flat&logo=github&logoColor=white)](https://github.com/Biiars00)
 
 ### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-320032?style=flat&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-320032?style=flat&logo=css3&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/Node.js-320032?style=flat&logo=node.js&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-320032?style=flat&logo=javascript&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-320032?style=flat&logo=typescript&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML-320032?style=flat&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-320032?style=flat&logo=css3&logoColor=blue)
 [![Git](https://img.shields.io/badge/Git-320032?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc)
-![Python](https://img.shields.io/badge/Python-320032?style=flat&logo=python&logoColor=yellow)
-![NodeJS](https://img.shields.io/badge/Node.js-320032?style=flat&logo=node.js&logoColor=green)
-![MongoDB](https://img.shields.io/badge/MongoDB-320032?style=flat&logo=mongodb&logoColor=green)
-![MySQL](https://img.shields.io/badge/MySQL-320032?style=flat&logo=mysql&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-320032?style=flat&logo=docker&logoColor=blue)
+![Jest](https://img.shields.io/badge/Jest-320032?style=flat&logo=jest&logoColor=red)
+![MongoDB](https://img.shields.io/badge/MongoDB-320032?style=flat&logo=mongodb&logoColor=green)
+![Firebase](https://img.shields.io/badge/Firebase-320032?style=flat&logo=firebase&logoColor=yellow)
 
 ### Aprendendo
-![Java](https://img.shields.io/badge/Java-320032?style=flat&logo=openjdk&logoColor=yellow)
-![Angular](https://img.shields.io/badge/Angular-320032?style=flat&logo=angular&logoColor=red)
+![Python](https://img.shields.io/badge/Python-320032?style=flat&logo=python&logoColor=yellow)
+![React](https://img.shields.io/badge/React-320032?style=flat&logo=react&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-320032?style=flat&logo=mysql&logoColor=blue)
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biiars00&theme=transparent&bg_color=320032&border_color=BD1550&show_icons=true&icon_color=BD1550&title_color=BD1550&text_color=FFF)
