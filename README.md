@@ -1,14 +1,19 @@
-![octocat-1692319884575](https://github.com/Biiars00/Biiars00/assets/105985047/9e98c42e-0270-4e95-b9ba-1d67f149d4ef)
+<div align="center">
+    <img src=".//img/icon-perfil-readme.png" alt="icon-github" width="200" />
+</div>
+
 <h3 align="center">Olá, seja bem-vindo(a)!</h3>
 
 📚 Graduanda em Análise e Desenvolvimento de Sistemas, sou apaixonada por tecnologia e sigo em busca de constante aprendizado.
 
 ### Conecte-se comigo
+
 [![E-mail](https://img.shields.io/badge/Gmail-320032?style=flat&logo=gmail&logoColor=red)](biiaribeiro60@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-320032?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beatriz-ribeiro-dev)
 [![Github](https://img.shields.io/badge/-Github-320032?style=flat&logo=github&logoColor=white)](https://github.com/Biiars00)
 
 ### Habilidades
+
 ![NodeJS](https://img.shields.io/badge/Node.js-320032?style=flat&logo=node.js&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-320032?style=flat&logo=javascript&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-320032?style=flat&logo=typescript&logoColor=blue)
@@ -21,14 +26,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-320032?style=flat&logo=firebase&logoColor=yellow)
 
 ### Aprendendo
+
 ![Python](https://img.shields.io/badge/Python-320032?style=flat&logo=python&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-320032?style=flat&logo=react&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-320032?style=flat&logo=mysql&logoColor=blue)
 
 ### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biiars00&theme=transparent&bg_color=320032&border_color=BD1550&show_icons=true&icon_color=BD1550&title_color=BD1550&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Biiars00&layout=compact&bg_color=320032&border_color=BD1550&title_color=BD1550&text_color=FFF)
-
-
-
