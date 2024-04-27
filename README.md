@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".//img/icon-perfil-readme.png" alt="icon-github" width="200" />
+    <img src=".//img/icon-perfil-readme.png" alt="icon-github" width="300" />
 </div>
 
 <h3 align="center">Olá, seja bem-vindo(a)!</h3>
