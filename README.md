@@ -28,7 +28,7 @@
 ### Aprendendo
 
 ![Python](https://img.shields.io/badge/Python-320032?style=flat&logo=python&logoColor=yellow)
-![React](https://img.shields.io/badge/React-320032?style=flat&logo=reactjs&logoColor=green)
+![React](https://img.shields.io/badge/React-320032?style=flat&logo=react&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-320032?style=flat&logo=mysql&logoColor=blue)
 
 ### GitHub Stats
