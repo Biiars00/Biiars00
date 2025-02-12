@@ -18,21 +18,21 @@
 ![Javascript](https://img.shields.io/badge/Javascript-DD0031?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-DD0031?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Typescript](https://img.shields.io/badge/Typescript-DD0031?style=for-the-badge&logo=typescript&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-ED8B00?style=for-the-badge&logo=css3&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=red)
-![Docker](https://img.shields.io/badge/Docker-ED8B00?style=for-the-badge&logo=docker&logoColor=blue)
-![Jest](https://img.shields.io/badge/Jest-ED8B00?style=for-the-badge&logo=jest&logoColor=red)
-![MongoDB](https://img.shields.io/badge/MongoDB-ED8B00?style=for-the-badge&logo=mongodb&logoColor=green)
-![Firebase](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-DD0031?style=for-the-badge&logo=css3&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-DD0031?style=for-the-badge&logo=git&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-DD0031?style=for-the-badge&logo=docker&logoColor=blue)
+![Jest](https://img.shields.io/badge/Jest-DD0031?style=for-the-badge&logo=jest&logoColor=red)
+![MongoDB](https://img.shields.io/badge/MongoDB-DD0031?style=for-the-badge&logo=mongodb&logoColor=green)
+![Firebase](https://img.shields.io/badge/Firebase-DD0031?style=for-the-badge&logo=firebase&logoColor=yellow)
 
 ### Aprendendo
 
-![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=yellow)
-![React](https://img.shields.io/badge/React-ED8B00?style=for-the-badge&logo=react&logoColor=green)
+![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=yellow)
+![React](https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=green)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ED8B00?style=for-the-badge&logo=mysql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-DD0031?style=for-the-badge&logo=mysql&logoColor=blue)
 
 ### GitHub Stats
 
