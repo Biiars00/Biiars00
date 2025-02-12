@@ -8,9 +8,9 @@
 
 ### Conecte-se comigo
 
-[![E-mail](https://img.shields.io/badge/Gmail-320032?style=flat&logo=gmail&logoColor=red)](biiaribeiro60@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-320032?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beatriz-ribeiro-dev)
-[![Github](https://img.shields.io/badge/-Github-320032?style=flat&logo=github&logoColor=white)](https://github.com/Biiars00)
+[![E-mail](https://img.shields.io/badge/Gmail-DD0031?style=for-the-badge&logo=gmail&logoColor=red)](biiaribeiro60@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-DD0031?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beatriz-ribeiro-dev)
+[![Github](https://img.shields.io/badge/Github-DD0031?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biiars00)
 
 ### Habilidades
 
