@@ -17,6 +17,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-320032?style=flat&logo=node.js&logoColor=green)
 ![Javascript](https://img.shields.io/badge/Javascript-320032?style=flat&logo=javascript&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-320032?style=flat&logo=typescript&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-320032?style=flat&logo=javat&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML-320032?style=flat&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-320032?style=flat&logo=css3&logoColor=blue)
 [![Git](https://img.shields.io/badge/Git-320032?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc)
@@ -29,6 +30,7 @@
 
 ![Python](https://img.shields.io/badge/Python-320032?style=flat&logo=python&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-320032?style=flat&logo=react&logoColor=green)
+![Angular](https://img.shields.io/badge/Angular-320032?style=flat&logo=angulart&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-320032?style=flat&logo=mysql&logoColor=blue)
 
 ### GitHub Stats
