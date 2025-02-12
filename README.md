@@ -36,6 +36,6 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biiars00&theme=transparent&bg_color=320032&border_color=BD1550&show_icons=true&icon_color=BD1550&title_color=BD1550&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biiars00&theme=transparent&bg_color=000000&border_color=000000&show_icons=true&icon_color=BD1550&title_color=BD1550&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Biiars00&layout=compact&bg_color=320032&border_color=BD1550&title_color=BD1550&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Biiars00&layout=compact&bg_color=000000&border_color=000000&title_color=BD1550&text_color=FFF)
