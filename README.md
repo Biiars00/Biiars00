@@ -17,7 +17,6 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-DD0031?style=for-the-badge&logo=node.js&logoColor=green)
 ![Javascript](https://img.shields.io/badge/Javascript-DD0031?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-DD0031?style=for-the-badge&logo=typescript&logoColor=blue)
-![Typescript](https://img.shields.io/badge/Typescript-DD0031?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-DD0031?style=for-the-badge&logo=css3&logoColor=blue)
@@ -37,5 +36,3 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biiars00&theme=transparent&bg_color=000000&border_color=000000&show_icons=true&icon_color=BD1550&title_color=BD1550&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Biiars00&layout=compact&bg_color=000000&border_color=000000&title_color=BD1550&text_color=FFF)
